@@ -90,6 +90,7 @@ margin-bottom: 177px;
     background-size: cover;
     margin: 0px 200px ;
     border-radius: 16px;
+    font-family: Merriweather;
 
 
 }
@@ -233,6 +234,55 @@ margin-bottom: 177px;
   border: 6px solid turquoise ;
   border-radius: 30px;
 }
+
+
+
+.para{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+
+}
+.button{
+    color: #FFF;
+    font-size: 20px;
+text-transform: uppercase;
+}
+/* coming soon */
+.coming-sec {
+    padding: 0px 20px;
+    margin: 120px;
+    /* border: 2px solid red; */
+  }
+  .comming {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .coming-des {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .year {
+    color: #f00;
+  
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+  
+    font-weight: 700;
+  }
+  .div-2{
+  border: 10px solid red;
+  border-radius: 60%;
+  }
+  .coming-img{
+    width: 350px;
+  height: 350px;
+  padding:8px;
+  }
+
 
 
   
