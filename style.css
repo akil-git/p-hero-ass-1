@@ -1,0 +1,91 @@
+.banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(resources/Banner.png) ;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-color:#070211, #07021100 ;
+    align-items: center;
+    background-image: border-radius: 16px;
+    
+    
+    
+
+    
+
+}
+.body{
+    margin: 0;
+}
+.purata{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 40px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.new{
+color: #FFF;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 177px;
+padding: 0;
+}
+.new-2{
+color: #FFF;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+margin-bottom: 177px;
+;
+
+}
+
+    .off {
+        position: relative;
+        font-size: 88px;
+        font-family: Inter;
+        color: #ff0000;
+        text-align: center;
+  }
+  .our-holiday-deals {
+    position: relative;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #ff0000;
+    text-align: center;
+}
+
+.all-categories {
+    margin: 0;
+    position: relative;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Inter;
+    color: #070211;
+    text-align: center;
+}
+.new-year{
+    margin-top: 100px;
+}
+
+
+  
+  
+
+
+
+
+
+
