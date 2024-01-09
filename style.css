@@ -282,6 +282,25 @@ text-transform: uppercase;
   height: 350px;
   padding:8px;
   }
+  footer{
+    display: flex;
+    background: #070211;
+    padding: 120px;
+    margin-top: 150px;
+    gap: 100px;
+   
+  }
+  .social-links{
+    justify-content: space-around
+    ;
+    display: flex;
+  }
+  .footer-column{
+    width: 50%;
+  }
+  .section-title{
+    color: #FFF;
+  }
 
 
 
